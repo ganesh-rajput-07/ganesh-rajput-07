@@ -1,1 +1,4 @@
 ![Shashtrik Member](https://img.shields.io/badge/Shashtrik%20Member-%E2%9C%94-FF6B00?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCI+PHJlY3Qgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0IiBmaWxsPSIjZmZmIi8+PHRleHQgeD0iMTIiIHk9IjE2IiBmb250LXNpemU9IjEwIiB0ZXh0LWFuY2hvcj0ibWlkZGxlIiBmaWxsPSIjRkY2QjAwIj5TSDwvdGV4dD48L3N2Zz4=)
+
+
+![Shashtrik](https://img.shields.io/badge/SHASHTRIK-TECH-black?style=for-the-badge)
