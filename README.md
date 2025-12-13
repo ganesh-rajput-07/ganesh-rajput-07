@@ -19,98 +19,86 @@ I value correctness over cleverness and longevity over trends.
 
 ---
 
-## 🧠 What I Work On
+## 📄 Resume Snapshot
 
-- Backend systems and APIs
-- Linux-based development environments
-- Security-oriented tools and workflows
-- Data systems and distributed computing concepts
-- Low-level understanding of high-level abstractions
-
-I prefer software that is predictable, readable, and hard to misuse.
+### Profile
+Foundations-driven software engineer with hands-on experience in system-level programming, backend development, and security-focused design. Strong grounding in core computer science concepts with practical implementation experience. Comfortable working close to the system and scaling upward when needed.
 
 ---
 
-## 🛠 Technologies & Tools
+### Technical Skills
 
-### Languages
-- **C** — algorithms, memory, fundamentals
-- **Python** — backend logic, automation, tooling
-- **JavaScript** — frontend and integration
+**Programming Languages**
+- C, Python, JavaScript
 
-### Frameworks & Platforms
-- Django
-- React
+**Frameworks & Tools**
+- Django, React
 - PostgreSQL
-- Git & GitHub
-- Linux (primary environment)
+- Git, GitHub
+- Linux (primary development environment)
 
-### Core Computer Science
-- Data Structures & Algorithms
+**Core Computer Science**
+- Data Structures and Algorithms
 - Theory of Computation
 - Compiler Design
 - Cryptography fundamentals
-- Big Data basics (HDFS, MapReduce, NoSQL)
+- Big Data concepts (HDFS, MapReduce, NoSQL)
 
 ---
 
-## 🔐 Current Focus
+### Engineering Achievements
 
-- Designing **secure data-sharing and communication systems**
-- Building tools with minimal assumptions and maximum control
-- Understanding system behavior at scale
-- Writing code that survives refactors, audits, and time
-
-If a system fails, I want to know *why* — not just *where*.
-
----
-
-## 🚀 Projects
-
-The repositories here reflect:
-- Incremental, well-reasoned development
-- Emphasis on fundamentals over libraries
-- Real learning, not tutorial cloning
-- Practical problem-solving
-
-Some projects are experiments.  
-Some are serious builds.  
-All of them represent deliberate growth.
+- Implemented multiple cryptographic techniques ranging from classical ciphers to modern public-key concepts in C
+- Designed and built backend systems with security and data integrity as core requirements
+- Worked extensively in Linux-based environments, handling system configuration and troubleshooting independently
+- Translated theoretical computer science concepts into working code implementations
+- Built CLI-first tools before extending functionality to GUI-based interfaces
+- Debugged real-world dependency, build, and runtime issues across frontend and backend stacks
 
 ---
 
-## 📚 How I Learn
+### Systems & Security Experience
 
-- Start from first principles
-- Question abstractions
-- Read specifications and documentation
-- Break systems to understand them
-- Fix problems instead of working around them
-
-Strong engineers are built by depth, not noise.
+- Designed software assuming untrusted and adversarial environments
+- Studied encryption, hashing, and key exchange mechanisms at the algorithm level
+- Focused on privacy-aware data handling and misuse prevention
+- Emphasized correctness, predictability, and maintainability in system design
 
 ---
 
-## 📌 Long-Term Direction
+### Academic & Conceptual Strengths
 
-I’m preparing myself for work involving:
-- Large-scale systems
-- Security-critical software
-- Infrastructure and backend architecture
-- Products designed to last beyond hype cycles
-
-Quiet progress compounds.
+- Strong understanding of formal languages, automata, and computability
+- Practical exposure to compiler phases including lexical analysis, parsing, and error handling
+- Compared traditional data processing systems with distributed big-data architectures
+- Applied time and space complexity analysis in real implementations
 
 ---
 
-## 🤝 Collaboration
+### Project Experience
 
-If you care about:
-- clean architecture
-- fundamentals that don’t age
-- thoughtful engineering
+- Built end-to-end software projects from design to deployment
+- Prioritized clean architecture and readable code over quick solutions
+- Iteratively improved systems based on testing and failure analysis
+- Balanced academic rigor with practical engineering constraints
 
-then we’ll likely work well together.
+---
+
+### Learning & Growth
+
+- Consistently studies low-level system behavior alongside modern frameworks
+- Uses implementation as the primary learning method
+- Revisits fundamentals to strengthen advanced system understanding
+- Treats engineering growth as a long-term discipline
+
+---
+
+### Direction
+
+Focused on contributing to and building systems that:
+- Scale without unnecessary complexity
+- Remain secure under real-world pressure
+- Are understandable, maintainable, and durable
 
 ---
 
