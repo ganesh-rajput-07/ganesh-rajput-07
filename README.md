@@ -15,12 +15,6 @@ I build software by understanding how things work under the hood.
 My focus is on **strong foundations**, **clean system design**, and **security-aware development**.  
 I spend time with the fundamentals — operating systems, data flow, computation models — because solid systems are built there, not in shortcuts.
 
-I value correctness over cleverness and longevity over trends.
----
-
-### Profile
-Foundations-driven software engineer with hands-on experience in system-level programming, backend development, and security-focused design. Strong grounding in core computer science concepts with practical implementation experience. Comfortable working close to the system and scaling upward when needed.
-
 ---
 
 ### Technical Skills
