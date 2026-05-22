@@ -1,92 +1,129 @@
-<!-- ===================== BADGES ===================== -->
+<!-- ========================================================= -->
+<!--                       HEADER BADGES                        -->
+<!-- ========================================================= -->
 
-![Linux](https://img.shields.io/badge/Linux-Primary%20Environment-black?style=flat&logo=linux)
-![Backend Systems](https://img.shields.io/badge/Backend-Systems%20Engineering-blue?style=flat)
-![Security](https://img.shields.io/badge/Security-Conscious-red?style=flat)
-![Architecture](https://img.shields.io/badge/System-Architecture-green?style=flat)
-![Founder](https://img.shields.io/badge/Founder-Building%20Products-orange?style=flat)
+![Backend Engineering](https://img.shields.io/badge/Backend-Engineering-0f172a?style=flat)
+![System Design](https://img.shields.io/badge/System-Design-1e293b?style=flat)
+![Linux](https://img.shields.io/badge/Linux-Primary%20Environment-f59e0b?style=flat&logo=linux&logoColor=white)
+![Security](https://img.shields.io/badge/Security-Conscious-dc2626?style=flat)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-Development-2563eb?style=flat)
+![API Architecture](https://img.shields.io/badge/API-Architecture-059669?style=flat)
+![Product Builder](https://img.shields.io/badge/Product-Builder-7c3aed?style=flat)
+![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-16a34a?style=flat)
+![Founder](https://img.shields.io/badge/Founder-Building%20Systems-f97316?style=flat)
+![Infrastructure](https://img.shields.io/badge/Infrastructure-Focused-475569?style=flat)
+![Scalable Systems](https://img.shields.io/badge/Scalable-Systems-0ea5e9?style=flat)
+![Problem Solver](https://img.shields.io/badge/Engineering-Problem%20Solver-9333ea?style=flat)
 
 ---
 
- # Ganesh Rajput
+# Ganesh Rajput
 
-Software Engineer • Full Stack Developer • Founder
+### Software Engineer • Full Stack Developer • Founder
 
 I build scalable software systems across backend, frontend, mobile, and infrastructure environments.
 
-My work focuses on system architecture, backend engineering, secure application development, and product-focused software delivery. I work comfortably across multiple stacks depending on the requirements of the system rather than attachment to a specific framework or ecosystem.
+My work focuses on backend engineering, system architecture, secure application development, and product-focused software delivery.  
+I prefer understanding systems deeply and building solutions that remain maintainable, reliable, and scalable over time.
 
 ---
 
-## Core Expertise
+# Engineering Focus
 
 - Backend Engineering
-- Full Stack Application Development
+- Full Stack Development
 - Mobile App Development
-- API & System Architecture
-- Database Design
+- API Architecture
+- System Design
 - Secure Software Development
-- Linux-Based Development & Deployment
+- Linux-Based Development
+- Infrastructure & Deployment
 - Product Engineering
+- Scalable Application Design
 
 ---
 
-## Technologies
+# Technology Stack
 
-### Backend
-- Django
-- FastAPI
-- Node.js
+## Backend Technologies
 
-### Frontend
-- React
-- Next.js
-- JavaScript
-
-### Mobile
-- Flutter
-
-### Languages
-- Python
-- Java
-- JavaScript
-- C
-
-### Databases & Infrastructure
-- PostgreSQL
-- Git & GitHub
-- Linux
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 
 ---
 
-## Engineering Philosophy
+## Frontend Technologies
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+
+---
+
+## Mobile Development
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+---
+
+## Programming Languages
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+---
+
+## Databases & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+# Engineering Philosophy
 
 - Build systems that remain maintainable under scale
-- Prioritize reliability and clarity over unnecessary complexity
-- Focus on strong foundations instead of trend-driven development
-- Design software with security and long-term sustainability in mind
-- Adapt technology choices based on system requirements
+- Prioritize reliability over unnecessary complexity
+- Design with security and long-term sustainability in mind
+- Focus on clarity, architecture, and predictable systems
+- Adapt technologies based on product and system requirements
+- Treat debugging and optimization as core engineering skills
 
 ---
 
-## What I Work On
+# Experience & Practical Work
 
-- Full stack platforms
-- Backend infrastructures
-- Mobile applications
-- Secure systems
-- Business software
-- Automation tools
-- Scalable APIs
-- Infrastructure-oriented applications
-
----
-
-## Current Focus
-
-Building reliable products and systems with practical real-world utility while continuously improving engineering depth across software architecture, infrastructure, and scalable application development.
+- Built end-to-end software systems from design to deployment
+- Developed backend infrastructures with authentication and scalable APIs
+- Worked extensively in Linux environments for development and troubleshooting
+- Solved build, runtime, dependency, and deployment issues across modern stacks
+- Built full stack and mobile applications for practical real-world use cases
+- Implemented security-focused system behavior and data handling approaches
+- Designed products with maintainability and scalability as primary goals
 
 ---
 
-> Strong systems are built deliberately.  
-> Good engineering compounds over time.
+# Current Direction
+
+Currently focused on building scalable products and systems with practical real-world value across software engineering, infrastructure, backend systems, and modern application development.
+
+Interested in:
+- Product Engineering
+- Infrastructure-Oriented Systems
+- Secure Platforms
+- High-Trust Software
+- Backend Architectures
+- Long-Term Technology Businesses
+
+---
+
+# Principles
+
+> Strong systems survive scale.  
+> Good engineering survives time.
