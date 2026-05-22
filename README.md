@@ -8,91 +8,85 @@
 
 ---
 
-# Ganesh Rajput
+ # Ganesh Rajput
 
-Software Engineer • Backend Developer • Founder
+Software Engineer • Full Stack Developer • Founder
 
-I design and build software systems focused on reliability, maintainability, and long-term scalability.
+I build scalable software systems across backend, frontend, mobile, and infrastructure environments.
 
-My work is centered around backend engineering, system architecture, Linux-based development, and security-aware software design.  
-I prefer understanding systems deeply rather than depending on abstraction-heavy shortcuts.
+My work focuses on system architecture, backend engineering, secure application development, and product-focused software delivery. I work comfortably across multiple stacks depending on the requirements of the system rather than attachment to a specific framework or ecosystem.
 
 ---
 
-## Areas of Work
+## Core Expertise
 
 - Backend Engineering
-- System Design
-- Secure Application Development
-- Linux & Infrastructure
-- API Architecture
+- Full Stack Application Development
+- Mobile App Development
+- API & System Architecture
 - Database Design
-- Full Stack Product Development
-- Technical Problem Solving
+- Secure Software Development
+- Linux-Based Development & Deployment
+- Product Engineering
 
 ---
 
-## Technology Stack
+## Technologies
 
-### Languages
-- C
-- Python
+### Backend
+- Django
+- FastAPI
+- Node.js
+
+### Frontend
+- React
+- Next.js
 - JavaScript
 
-### Frameworks & Tools
-- Django
-- React
+### Mobile
+- Flutter
+
+### Languages
+- Python
+- Java
+- JavaScript
+- C
+
+### Databases & Infrastructure
 - PostgreSQL
 - Git & GitHub
 - Linux
 
 ---
 
-## Engineering Approach
+## Engineering Philosophy
 
-- Build systems that remain maintainable as they scale
-- Prioritize clarity over unnecessary complexity
-- Design software with security in mind from the beginning
-- Focus on predictable architecture and clean implementation
-- Treat debugging as an engineering skill, not a frustration
-
----
-
-## Experience & Practical Work
-
-- Built end-to-end software systems from architecture to deployment
-- Developed backend infrastructures with authentication, APIs, and database integration
-- Worked extensively in Linux environments for development and troubleshooting
-- Implemented cryptographic and security-related concepts in practical projects
-- Solved dependency, build, deployment, and runtime issues across modern stacks
-- Built CLI-oriented workflows before extending products into graphical interfaces
+- Build systems that remain maintainable under scale
+- Prioritize reliability and clarity over unnecessary complexity
+- Focus on strong foundations instead of trend-driven development
+- Design software with security and long-term sustainability in mind
+- Adapt technology choices based on system requirements
 
 ---
 
-## Core Technical Interests
+## What I Work On
 
-- Backend Systems
-- Operating Systems
-- Security Engineering
-- Distributed Systems
-- Computation Theory
-- Data Flow & System Internals
-- Developer Infrastructure
-
----
-
-## Current Direction
-
-Currently focused on building software products and scalable systems with practical real-world value.
-
-Interested in:
-- High-trust software systems
-- Product engineering
+- Full stack platforms
+- Backend infrastructures
+- Mobile applications
+- Secure systems
+- Business software
+- Automation tools
+- Scalable APIs
 - Infrastructure-oriented applications
-- Security-first platforms
-- Long-term technology businesses
 
 ---
 
-> Good systems survive complexity.  
-> Good engineering survives time.
+## Current Focus
+
+Building reliable products and systems with practical real-world utility while continuously improving engineering depth across software architecture, infrastructure, and scalable application development.
+
+---
+
+> Strong systems are built deliberately.  
+> Good engineering compounds over time.
