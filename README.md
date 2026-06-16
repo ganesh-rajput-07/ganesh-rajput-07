@@ -97,7 +97,7 @@ I prefer understanding systems deeply and building solutions that remain maintai
 
 ---
 
-## Dynamic Badge Theme
+## Cyber Security 
 
 <!-- BADGE_THEME_START -->
 ![Linux](https://img.shields.io/badge/Linux-Security-f59e0b?style=flat-square&logo=linux&logoColor=white)
