@@ -19,67 +19,21 @@ steps:
 
   - name: Update README
     run: |
-      python << 'EOF'
-      from datetime import datetime
+      echo "" >> README.md
+      echo "Last Updated: $(date -u)" >> README.md
 
-      themes = [
-          "Linux Security",
-          "Networking",
-          "Web Security",
-          "Burp Suite",
-          "OWASP Top 10",
-          "Python Automation",
-          "CTF Practice"
-      ]
-
-      day = datetime.utcnow().weekday()
-      theme = themes[day]
-
-      now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
-
-      with open("README.md", "r", encoding="utf-8") as f:
-          content = f.read()
-
-      start = "<!-- AUTO-ROTATING SECTION START -->"
-      end = "<!-- AUTO-ROTATING SECTION END -->"
-
-      new_section = f'''
-```
-
-<!-- AUTO-ROTATING SECTION START -->
-
-## Current Cybersecurity Focus
-
-Current Topic: **{theme}**
-
-Last Updated: **{now}**
-
-<!-- AUTO-ROTATING SECTION END -->
-
-'''
-
-```
-      import re
-
-      content = re.sub(
-          f"{start}[\\s\\S]*?{end}",
-          new_section.strip(),
-          content
-      )
-
-      with open("README.md", "w", encoding="utf-8") as f:
-          f.write(content)
-      EOF
-
-  - name: Commit
+  - name: Commit changes
     run: |
-      git config user.name "github-actions[bot]"
-      git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      git config --global user.name "github-actions[bot]"
+      git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       git add README.md
 
-      git diff --cached --quiet && exit 0
+      if git diff --cached --quiet; then
+        echo "No changes"
+        exit 0
+      fi
 
-      git commit -m "docs: update cybersecurity focus"
+      git commit -m "docs: daily profile update"
       git push
 ```
