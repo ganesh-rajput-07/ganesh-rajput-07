@@ -77,6 +77,17 @@ I prefer understanding systems deeply and building solutions that remain maintai
 
 ---
 
+## Cyber Security 
+
+<!-- BADGE_THEME_START -->
+![Linux](https://img.shields.io/badge/Linux-Security-f59e0b?style=flat-square&logo=linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Learning-2563eb?style=flat-square)
+![Web Security](https://img.shields.io/badge/Web-Security-dc2626?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange?style=flat-square)
+<!-- BADGE_THEME_END -->
+
+---
+
 ## Databases & Infrastructure
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
@@ -94,17 +105,6 @@ I prefer understanding systems deeply and building solutions that remain maintai
 - Focus on clarity, architecture, and predictable systems
 - Adapt technologies based on product and system requirements
 - Treat debugging and optimization as core engineering skills
-
----
-
-## Cyber Security 
-
-<!-- BADGE_THEME_START -->
-![Linux](https://img.shields.io/badge/Linux-Security-f59e0b?style=flat-square&logo=linux&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-Learning-2563eb?style=flat-square)
-![Web Security](https://img.shields.io/badge/Web-Security-dc2626?style=flat-square)
-![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange?style=flat-square)
-<!-- BADGE_THEME_END -->
 
 ---
 
