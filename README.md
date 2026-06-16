@@ -100,7 +100,10 @@ I prefer understanding systems deeply and building solutions that remain maintai
 ## Dynamic Badge Theme
 
 <!-- BADGE_THEME_START -->
-![Cyber](https://img.shields.io/badge/Cyber-Security-blue?style=flat)
+![Linux](https://img.shields.io/badge/Linux-Security-f59e0b?style=flat-square&logo=linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Learning-2563eb?style=flat-square)
+![Web Security](https://img.shields.io/badge/Web-Security-dc2626?style=flat-square)
+![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange?style=flat-square)
 <!-- BADGE_THEME_END -->
 
 ---
