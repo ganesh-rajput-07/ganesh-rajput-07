@@ -1,4 +1,3 @@
-```yaml
 name: Daily Profile Update
 
 on:
@@ -73,4 +72,3 @@ jobs:
 
           git commit -m "docs: update cybersecurity theme"
           git push
-```
