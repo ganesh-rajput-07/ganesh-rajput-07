@@ -54,6 +54,34 @@ jobs:
               flags=re.S
           )
 
+          badge_styles = [
+              "flat",
+              "flat-square",
+              "for-the-badge",
+              "plastic",
+              "flat",
+              "flat-square",
+              "for-the-badge"
+          ]
+          
+          style = badge_styles[day]
+          
+          badge_block = f"""
+          <!-- BADGE_THEME_START -->
+          ![Linux](https://img.shields.io/badge/Linux-Security-f59e0b?style={style}&logo=linux&logoColor=white)
+          ![Networking](https://img.shields.io/badge/Networking-Learning-2563eb?style={style})
+          ![Web Security](https://img.shields.io/badge/Web-Security-dc2626?style={style})
+          ![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange?style={style})
+          <!-- BADGE_THEME_END -->
+          """
+          
+          content = re.sub(
+              r'<!-- BADGE_THEME_START -->.*?<!-- BADGE_THEME_END -->',
+              badge_block.strip(),
+              content,
+              flags=re.S
+          )
+
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(content)
           EOF
