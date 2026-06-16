@@ -97,6 +97,14 @@ I prefer understanding systems deeply and building solutions that remain maintai
 
 ---
 
+## Dynamic Badge Theme
+
+<!-- BADGE_THEME_START -->
+![Cyber](https://img.shields.io/badge/Cyber-Security-blue?style=flat)
+<!-- BADGE_THEME_END -->
+
+---
+
 # Experience & Practical Work
 
 - Built end-to-end software systems from design to deployment
