@@ -1,77 +1,76 @@
+```yaml
 name: Daily Profile Update
 
 on:
-schedule:
-- cron: "0 1 * * *"
-workflow_dispatch:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
 
 permissions:
-contents: write
+  contents: write
 
 jobs:
-update:
-runs-on: ubuntu-latest
+  update:
+    runs-on: ubuntu-latest
 
-```
-steps:
-  - name: Checkout
-    uses: actions/checkout@v4
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-  - name: Update README
-    run: |
-      python3 << 'EOF'
-      from datetime import datetime
-      import re
+      - name: Update README
+        run: |
+          python3 << 'EOF'
+          from datetime import datetime
+          import re
 
-      themes = [
-          "Linux Security",
-          "Networking",
-          "Web Security",
-          "Burp Suite",
-          "OWASP Top 10",
-          "Python Automation",
-          "CTF Practice"
-      ]
+          themes = [
+              "Linux Security",
+              "Networking",
+              "Web Security",
+              "Burp Suite",
+              "OWASP Top 10",
+              "Python Automation",
+              "CTF Practice"
+          ]
 
-      day = datetime.utcnow().weekday()
-      theme = themes[day]
+          day = datetime.utcnow().weekday()
+          theme = themes[day]
 
-      now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
+          now = datetime.utcnow().strftime("%Y-%m-%d %H:%M UTC")
 
-      with open("README.md", "r", encoding="utf-8") as f:
-          content = f.read()
+          with open("README.md", "r", encoding="utf-8") as f:
+              content = f.read()
 
-      content = re.sub(
-          r'<!-- THEME_START -->.*?<!-- THEME_END -->',
-          f'<!-- THEME_START -->\n{theme}\n<!-- THEME_END -->',
-          content,
-          flags=re.S
-      )
+          content = re.sub(
+              r'<!-- THEME_START -->.*?<!-- THEME_END -->',
+              f'<!-- THEME_START -->\n{theme}\n<!-- THEME_END -->',
+              content,
+              flags=re.S
+          )
 
-      content = re.sub(
-          r'<!-- UPDATED_START -->.*?<!-- UPDATED_END -->',
-          f'<!-- UPDATED_START -->\n{now}\n<!-- UPDATED_END -->',
-          content,
-          flags=re.S
-      )
+          content = re.sub(
+              r'<!-- UPDATED_START -->.*?<!-- UPDATED_END -->',
+              f'<!-- UPDATED_START -->\n{now}\n<!-- UPDATED_END -->',
+              content,
+              flags=re.S
+          )
 
-      with open("README.md", "w", encoding="utf-8") as f:
-          f.write(content)
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(content)
+          EOF
 
-      EOF
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-  - name: Commit changes
-    run: |
-      git config --global user.name "github-actions[bot]"
-      git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
 
-      git add README.md
+          if git diff --cached --quiet; then
+            echo "No changes detected"
+            exit 0
+          fi
 
-      if git diff --cached --quiet; then
-        echo "No changes"
-        exit 0
-      fi
-
-      git commit -m "docs: update cybersecurity theme"
-      git push
+          git commit -m "docs: update cybersecurity theme"
+          git push
 ```
