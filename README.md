@@ -134,6 +134,12 @@ Interested in:
 
 ---
 
+## Current Progress
+
+[![Build & Release App](https://github.com/ganesh-rajput-07/ResiFlow-app/actions/workflows/build.yml/badge.svg)](https://github.com/ganesh-rajput-07/ResiFlow-app/actions/workflows/build.yml)
+
+---
+
 <!-- AUTO-ROTATING SECTION START -->
 
 ## Current Cybersecurity Focus
