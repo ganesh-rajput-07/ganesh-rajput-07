@@ -80,10 +80,10 @@ I prefer understanding systems deeply and building solutions that remain maintai
 ## Cyber Security 
 
 <!-- BADGE_THEME_START -->
-![Linux](https://img.shields.io/badge/Linux-Security-f59e0b?style=for-the-badge&logo=linux&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-Learning-2563eb?style=for-the-badge)
-![Web Security](https://img.shields.io/badge/Web-Security-dc2626?style=for-the-badge)
-![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Security-f59e0b?style=plastic&logo=linux&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-Learning-2563eb?style=plastic)
+![Web Security](https://img.shields.io/badge/Web-Security-dc2626?style=plastic)
+![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange?style=plastic)
 <!-- BADGE_THEME_END -->
 
 ---
