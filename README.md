@@ -158,9 +158,6 @@ Interested in:
 
 Loading...
 
-### Last Updated
-
-Loading...
 
 <!-- AUTO-ROTATING SECTION END -->
 
