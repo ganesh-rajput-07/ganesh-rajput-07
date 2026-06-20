@@ -142,23 +142,6 @@ Interested in:
 
 <!-- AUTO-ROTATING SECTION START -->
 
-## Current Cybersecurity Focus
-
-| Day       | Focus             |
-| --------- | ----------------- |
-| Monday    | Linux Security    |
-| Tuesday   | Networking        |
-| Wednesday | Web Security      |
-| Thursday  | Burp Suite        |
-| Friday    | OWASP Top 10      |
-| Saturday  | Python Automation |
-| Sunday    | CTF Practice      |
-
-### Current Theme
-
-Loading...
-
-
 <!-- AUTO-ROTATING SECTION END -->
 
 
