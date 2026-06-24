@@ -18,11 +18,11 @@ on:
   workflow_dispatch: {}   # manual trigger only, for now — safe to run anytime
 
   # Uncomment these two blocks once you're ready for it to run automatically:
-  # schedule:
-  #   - cron: "0 0 * * *"     # once daily, midnight UTC
-  # push:
-  #   branches:
-  #     - main                 # also regenerate on every push to main
+  schedule:
+    - cron: "0 0 * * *"     # once daily, midnight UTC
+  push:
+    branches:
+       - main                 # also regenerate on every push to main
 
 permissions:
   contents: write
