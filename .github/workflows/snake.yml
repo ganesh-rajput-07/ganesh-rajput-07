@@ -1,0 +1,48 @@
+name: Generate Snake Animation
+
+# This workflow is intentionally left without a `push`/`schedule` trigger for now,
+# so it will NOT consume any Action minutes until you enable it yourself.
+#
+# To enable once your monthly Action minutes reset:
+#   1. Uncomment the `schedule` and `push` triggers below.
+#   2. Commit this file to your default branch.
+#   3. Go to your repo's Settings -> Actions -> General -> Workflow permissions,
+#      and set it to "Read and write permissions" (needed to push to the output branch).
+#   4. Optionally, trigger it once manually from the Actions tab ("Run workflow")
+#      to generate the first version of the SVG immediately.
+#
+# Cost: roughly 5-15 seconds of runtime per run. Running once daily costs only
+# a few Action minutes per month total.
+
+on:
+  workflow_dispatch: {}   # manual trigger only, for now — safe to run anytime
+
+  # Uncomment these two blocks once you're ready for it to run automatically:
+  # schedule:
+  #   - cron: "0 0 * * *"     # once daily, midnight UTC
+  # push:
+  #   branches:
+  #     - main                 # also regenerate on every push to main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ganesh-rajput-07
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
