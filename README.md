@@ -1,199 +1,110 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f59e0b,100:dc2626&height=200&section=header&text=Ganesh%20Rajput&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20API%20Security%20%7C%20AI%20Systems&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=24&height=130&section=header&text=GANESH%20RAJPUT&fontSize=42&fontColor=e2e8f0&fontAlign=50&fontAlignY=50&desc=BACKEND%20ENGINEER%20%E2%80%94%20API%20SECURITY%20%E2%80%94%20APPLIED%20AI&descAlign=50&descAlignY=72&descSize=14&descColor=64748b&animation=fadeIn" />
 
-<!-- Typing animation -->
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=F59E0B&center=true&vCenter=true&width=700&lines=Building+production+backend+systems+with+Python+%26+FastAPI;Designing+secure%2C+scalable+APIs+that+survive+real+traffic;Exploring+agentic+AI+%26+recursive+language+models;Currently+shipping+at+BitCoding+Solutions" alt="Typing SVG" />
-</a>
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ganesh--rajput.vercel.app-f59e0b?style=for-the-badge&logo=vercel&logoColor=white)](https://ganesh-rajput.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshrajput7045/)
-[![Email](https://img.shields.io/badge/Email-grt7045%40gmail.com-dc2626?style=for-the-badge&logo=gmail&logoColor=white)](mailto:grt7045@gmail.com)
-[![GitHub Followers](https://img.shields.io/github/followers/ganesh-rajput-07?label=Followers&style=for-the-badge&color=16a34a&logo=github)](https://github.com/ganesh-rajput-07)
+<a href="https://ganesh-rajput.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-ganesh--rajput.vercel.app-1a1f2e?style=flat-square&labelColor=0d1117&color=2563eb" /></a>
+<a href="https://www.linkedin.com/in/ganeshrajput7045/"><img src="https://img.shields.io/badge/LinkedIn-Ganesh%20Rajput-1a1f2e?style=flat-square&labelColor=0d1117&color=2563eb" /></a>
+<a href="mailto:grt7045@gmail.com"><img src="https://img.shields.io/badge/Email-grt7045%40gmail.com-1a1f2e?style=flat-square&labelColor=0d1117&color=2563eb" /></a>
+<a href="https://github.com/ganesh-rajput-07"><img src="https://img.shields.io/github/followers/ganesh-rajput-07?label=Followers&style=flat-square&labelColor=0d1117&color=2563eb" /></a>
 
 </div>
 
 <br>
 
-## ⚡ About Me
+I'm a backend engineer based in Surat, India, focused on **API design, system architecture, and security-conscious infrastructure**. I write production Python — mostly FastAPI and Django REST Framework — and spend my own time going one layer deeper: studying how language model agents reason, and how to build systems that hold up once real traffic and real attackers show up.
 
-```python
-class GaneshRajput:
-    def __init__(self):
-        self.role        = "Backend Engineer @ BitCoding Solutions Pvt. Ltd."
-        self.location    = "Surat, Gujarat, India 🇮🇳"
-        self.stack       = ["Python", "FastAPI", "Django REST Framework", "PostgreSQL", "Linux"]
-        self.focus       = ["API Security", "System Design", "Agentic AI", "Backend Architecture"]
-        self.education   = "B.E. Computer Engineering, GTU — CGPA 9.46/10"
-        self.currently   = "Shipping production APIs by day, building RLM agents by night"
-
-    def philosophy(self):
-        return "Strong systems survive scale. Good engineering survives time."
-
-me = GaneshRajput()
-```
-
-I'm a backend engineer who likes taking systems apart to understand exactly why they break — then building the version that doesn't. My day-to-day is production APIs in **FastAPI** and **Django REST Framework** backing real e-commerce traffic; my after-hours work is security tooling and recursive AI agents that push at the edge of what I've shipped commercially.
-
-I went from intern to full-time backend developer inside a year. I'd rather spend a weekend reading PostgreSQL query plans than reading another framework's marketing page.
+I moved from intern to full-time backend developer in under a year. I care more about a system staying correct under load six months from now than about how fast it shipped today.
 
 <br>
 
-## 🛠️ Tech Stack
+### Stack
 
 <div align="center">
 
-### Languages & Core
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### Frontend & Mobile
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
-### Databases & Infra
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Security & Tooling
-![JWT](https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### AI & Agentic Systems
-![LLM](https://img.shields.io/badge/LLM%20Applications-7c3aed?style=for-the-badge&logo=openai&logoColor=white)
-![Vector Search](https://img.shields.io/badge/Vector%20Search-Embeddings-0ea5e9?style=for-the-badge)
-![DSPy](https://img.shields.io/badge/DSPy-Agent%20Orchestration-f97316?style=for-the-badge)
+<img src="https://img.shields.io/badge/Python-1a1f2e?style=flat-square&logo=python&logoColor=ffd43b&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/FastAPI-1a1f2e?style=flat-square&logo=fastapi&logoColor=05998b&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Django-1a1f2e?style=flat-square&logo=django&logoColor=44b78b&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PostgreSQL-1a1f2e?style=flat-square&logo=postgresql&logoColor=4d8fc4&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Docker-1a1f2e?style=flat-square&logo=docker&logoColor=2496ed&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Linux-1a1f2e?style=flat-square&logo=linux&logoColor=fcc624&labelColor=0d1117" />
+<br>
+<img src="https://img.shields.io/badge/JavaScript-1a1f2e?style=flat-square&logo=javascript&logoColor=f7df1e&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/React-1a1f2e?style=flat-square&logo=react&logoColor=61dafb&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Next.js-1a1f2e?style=flat-square&logo=nextdotjs&logoColor=ffffff&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Flutter-1a1f2e?style=flat-square&logo=flutter&logoColor=02569b&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Redis-1a1f2e?style=flat-square&logo=redis&logoColor=dc382d&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Git-1a1f2e?style=flat-square&logo=git&logoColor=f05032&labelColor=0d1117" />
 
 </div>
 
+**Backend & APIs** — REST API design, JWT/OAuth, RBAC, microservices, rate limiting, middleware design
+**Databases** — PostgreSQL, MySQL, SQLite, Firebase, query optimization
+**Applied AI** — LLM-backed applications, ReAct agents, recursive orchestration, vector search, embeddings
+**Security** — threat detection, brute-force mitigation, Burp Suite, secure-by-design API layers
+
 <br>
 
-## 🚀 Featured Builds
+### Currently
 
-<table>
-<tr>
-<td width="50%" valign="top">
+`Python Developer @ BitCoding Solutions Pvt. Ltd.` — building and maintaining production backend services for client-facing platforms: authentication, catalog, and order-management APIs on FastAPI, Django, and PostgreSQL.
 
-### 🛡️ ApiWall
-**API Security & Monitoring Platform**
+`B.E. Computer Engineering @ GTU` — graduating June 2026, CGPA 9.46/10.
 
-A self-built security layer sitting in front of backend services — rate limiting, IP reputation scoring, brute-force detection, and live threat monitoring, all wired through reusable FastAPI middleware.
+<br>
 
-`FastAPI` `PostgreSQL` `Linux` `JWT/RBAC`
+### Selected Work
 
-</td>
-<td width="50%" valign="top">
+**ApiWall — API Security & Monitoring Platform**
+A security layer for backend services: rate limiting, IP reputation scoring, and real-time threat detection, shipped as reusable FastAPI middleware handling JWT auth, RBAC, and brute-force protection. Modular by design, with monitoring dashboards for centralized policy management.
+`FastAPI` `PostgreSQL` `Linux`
 
-### ⚖️ InvenIO
-**Decentralized Patent Marketplace**
+**InvenIO — Decentralized Patent Marketplace**
+An AI-assisted marketplace for patent filing, combining blockchain-based ownership verification with IPFS document storage. Vector embeddings power semantic similarity search to flag duplicate submissions before they're filed.
+`FastAPI` `Next.js` `PostgreSQL` `Blockchain` `IPFS`
 
-AI-powered marketplace verifying patent ownership on-chain, storing documents on IPFS, and using vector embeddings to catch duplicate filings before they're submitted.
+**Recursive Language Model Agent Framework**
+An autonomous framework where the agent generates and executes its own Python inside a secure sandbox, using DSPy and OpenRouter for multi-step recursive reasoning. Built around parallel task decomposition and deliberate context-window management.
+`Python` `DSPy` `OpenRouter` `Pyodide` `Deno`
 
-`FastAPI` `Next.js` `Blockchain` `IPFS` `AI`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔁 RLM Agent Framework
-**Recursive Language Model Orchestration**
-
-An autonomous agent framework that writes and executes its own Python in a sandboxed runtime, decomposing tasks recursively and optimizing context-window usage across multi-step reasoning chains.
-
-`DSPy` `OpenRouter` `Pyodide` `Deno`
-
-</td>
-<td width="50%" valign="top">
-
-### 📦 Kaleidoscope
-**Enterprise Warehouse Management System**
-
-Production WMS maintained for live business workflows — backend automation, database backup tooling, and custom workshop commands built alongside a global engineering team.
-
-`FastAPI` `PostgreSQL` `Syncfusion`
-
-</td>
-</tr>
-</table>
+**Production Backend Systems (BitCoding Solutions)**
+REST APIs powering authentication, product catalog, and order management for a live e-commerce platform, plus a warehouse-management system used across multiple operational workflows — backend automation, scheduled backups, and custom internal tooling built alongside a distributed engineering team.
+`FastAPI` `Django REST Framework` `PostgreSQL`
 
 <details>
-<summary><b>📂 More Projects</b></summary>
+<summary>More projects</summary>
 <br>
 
 | Project | Description | Stack |
 |---|---|---|
-| **The Diamond District** | Production REST APIs for a UK e-commerce platform — auth, catalog, orders, payments | `DRF` `PostgreSQL` `JWT` |
-| **URL Shortener + Analytics** | High-performance slug generation with a real-time click analytics dashboard | `FastAPI` `PostgreSQL` |
-| **WantMeal** | Subscription tiffin-service backend with day-wise meal tracking | `Django` `REST APIs` |
-| **KrishiMitra AI** | Agricultural marketplace connecting farmers and buyers with AI-driven crop insights | `Django` `PostgreSQL` |
+| URL Shortener + Analytics | Slug generation, redirect handling, and a click-analytics dashboard over an optimized lookup schema | `FastAPI` `PostgreSQL` |
+| WantMeal | Subscription management and day-wise order tracking for a tiffin-delivery service | `Django` `REST APIs` |
+| KrishiMitra AI | Marketplace connecting farmers and buyers, with AI-assisted crop recommendations | `Django` `PostgreSQL` |
 
 </details>
 
 <br>
 
-## 📊 GitHub Activity
+### Activity
 
 <div align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ganesh-rajput-07&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=f59e0b&icon_color=dc2626&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-rajput-07&theme=react&hide_border=true&background=0d1117&ring=f59e0b&fire=dc2626&currStreakLabel=f59e0b" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganesh-rajput-07&theme=react-dark&bg_color=0d1117&color=f59e0b&line=dc2626&point=ffffff&hide_border=true" width="95%" />
-</div>
-
-<br>
-
-## 🎓 Currently
-
-- 🏢 Building production backend systems at **BitCoding Solutions Pvt. Ltd.**
-- 🎓 Finishing **B.E. in Computer Engineering** at GTU — CGPA **9.46/10**
-- 🔬 Going deeper on **agentic AI**, **recursive reasoning systems**, and **API security**
-- 🐧 Living in the terminal — Linux is where the real debugging happens
-- 📖 Currently reading PostgreSQL internals docs for fun (yes, really)
-
-<br>
-
-## 💬 Engineering Principles
-
-<div align="center">
-
-> *"Strong systems survive scale.*
-> *Good engineering survives time."*
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganesh-rajput-07&show_icons=true&theme=transparent&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=8b949e&bg_color=00000000" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-rajput-07&theme=transparent&hide_border=true&background=00000000&ring=2563eb&fire=2563eb&currStreakLabel=8b949e&sideLabels=8b949e&dates=8b949e" />
 </div>
 
 <br>
 
 <div align="center">
+<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/output/github-contribution-grid-snake.svg" width="100%" />
+</div>
 
-### Let's build something that lasts
+<!-- Snake animation: generated by .github/workflows/snake.yml once enabled.
+     It eats your real commit graph and regenerates daily on the `output` branch.
+     Until the workflow has run at least once, this image will show as broken — that's expected. -->
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-ganesh--rajput.vercel.app-f59e0b?style=for-the-badge)](https://ganesh-rajput.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ganeshrajput7045/)
-[![Email](https://img.shields.io/badge/✉️_Email-grt7045@gmail.com-dc2626?style=for-the-badge)](mailto:grt7045@gmail.com)
+<br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:dc2626,100:f59e0b&height=120&section=footer" />
+<div align="center">
+
+*Strong systems survive scale. Good engineering survives time.*
 
 </div>
