@@ -1,21 +1,25 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=24&height=130&section=header&text=GANESH%20RAJPUT&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=50&desc=BACKEND%20ENGINEER%20%E2%80%94%20API%20SECURITY%20%E2%80%94%20APPLIED%20AI&descAlign=50&descAlignY=72&descSize=14&descColor=cbd5e1&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=12&height=130&section=header&text=GANESH%20RAJPUT&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=50&desc=BACKEND%20ENGINEER%20%E2%80%94%20API%20SECURITY%20%E2%80%94%20APPLIED%20AI&descAlign=50&descAlignY=72&descSize=14&descColor=fde9d9&animation=fadeIn" />
 
-<a href="https://ganesh-rajput.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ganeshrajput7045/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:grt7045@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/ganesh-rajput-07"><img src="https://img.shields.io/github/followers/ganesh-rajput-07?label=Followers&style=for-the-badge&color=8957e5&logo=github&logoColor=white" /></a>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Currently-Python%20Developer%20%40%20BitCoding%20Solutions-2563EB?style=flat-square&labelColor=1a1f2e" />
-<img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Engineering%2C%20GTU%20%E2%80%94%209.46%20CGPA-16A34A?style=flat-square&labelColor=1a1f2e" />
-<img src="https://img.shields.io/badge/Location-Surat%2C%20Gujarat%2C%20India-F59E0B?style=flat-square&labelColor=1a1f2e" />
+<a href="https://ganesh-rajput.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ganeshrajput7045/"><img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:grt7045@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/ganesh-rajput-07"><img src="https://img.shields.io/github/followers/ganesh-rajput-07?label=Followers&style=for-the-badge&color=F97316&logo=github&logoColor=white" /></a>
 
 <br><br>
 
-**Backend engineer building production APIs today, moving toward AI agentic systems as the main focus — using backend infrastructure as the foundation that makes those systems reliable.**
+<img src="https://img.shields.io/badge/Currently-Python%20Developer%20%40%20BitCoding%20Solutions-1a1f2e?style=flat-square&labelColor=F97316&logoColor=white" />
+<img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Engineering%2C%20GTU%20%E2%80%94%209.46%20CGPA-1a1f2e?style=flat-square&labelColor=F97316&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Surat%2C%20Gujarat%2C%20India-1a1f2e?style=flat-square&labelColor=F97316&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Backend%20engineer%20building%20production%20APIs%20today-1a1f2e?style=for-the-badge&labelColor=F97316&color=1a1f2e" />
+<br>
+<img src="https://img.shields.io/badge/Moving%20toward%20AI%20agentic%20systems%20as%20the%20main%20focus-1a1f2e?style=for-the-badge&labelColor=F97316&color=1a1f2e" />
+<br>
+<img src="https://img.shields.io/badge/Backend%20infra%20as%20the%20foundation%20that%20makes%20agents%20reliable-1a1f2e?style=for-the-badge&labelColor=F97316&color=1a1f2e" />
 
 </div>
 
@@ -23,7 +27,9 @@
 
 <div align="center">
 
-### Stack
+<img src="https://img.shields.io/badge/STACK-F97316?style=for-the-badge&logoColor=white" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -54,9 +60,9 @@
 
 <br><br>
 
-<sub><b>Heading toward — building the backend layer AI agents run on</b></sub>
+<img src="https://img.shields.io/badge/HEADING%20TOWARD%20%E2%80%94%20THE%20BACKEND%20LAYER%20AI%20AGENTS%20RUN%20ON-F97316?style=for-the-badge&logoColor=white" />
 
-<br>
+<br><br>
 
 <img src="https://img.shields.io/badge/LLM%20Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/ReAct%20Agents-9333EA?style=for-the-badge&logoColor=white" />
@@ -70,46 +76,80 @@
 
 <div align="center">
 
-### Selected Work
+<img src="https://img.shields.io/badge/SELECTED%20WORK-F97316?style=for-the-badge&logoColor=white" />
 
 </div>
 
+<br>
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
-<img src="https://img.shields.io/badge/ApiWall-DC2626?style=for-the-badge&logo=shieldcheck&logoColor=white" />
+<img src="https://img.shields.io/badge/ApiWall-DC2626?style=for-the-badge&logoColor=white" />
 
-API security platform — rate limiting, IP reputation scoring, and real-time threat detection, shipped as reusable FastAPI middleware.
+<br><br>
+
+<img src="https://img.shields.io/badge/API%20security%20platform-1a1f2e?style=flat-square&labelColor=1a1f2e&color=1a1f2e" />
+<br>
+<img src="https://img.shields.io/badge/Rate%20limiting%20%C2%B7%20IP%20reputation%20scoring%20%C2%B7%20real--time%20threat%20detection-334155?style=flat-square&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Shipped%20as%20reusable%20FastAPI%20middleware-334155?style=flat-square&logoColor=white" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/InvenIO-7C3AED?style=for-the-badge&logoColor=white" />
 
-AI-assisted patent marketplace with blockchain ownership verification and vector-embedding duplicate detection.
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%E2%80%93assisted%20patent%20marketplace-1a1f2e?style=flat-square&labelColor=1a1f2e&color=1a1f2e" />
+<br>
+<img src="https://img.shields.io/badge/Blockchain%20ownership%20verification-334155?style=flat-square&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Vector%E2%80%93embedding%20duplicate%20detection-334155?style=flat-square&logoColor=white" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/RLM%20Agent%20Framework-D946EF?style=for-the-badge&logoColor=white" />
 
-Autonomous agent that writes and executes its own Python in a sandbox, using recursive multi-step reasoning.
+<br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/DSPy-D946EF?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logo=deno&logoColor=white" />
+<img src="https://img.shields.io/badge/Autonomous%20coding%20agent-1a1f2e?style=flat-square&labelColor=1a1f2e&color=1a1f2e" />
+<br>
+<img src="https://img.shields.io/badge/Writes%20%26%20executes%20its%20own%20Python%20in%20a%20sandbox-334155?style=flat-square&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Recursive%2C%20multi%E2%80%93step%20reasoning-334155?style=flat-square&logoColor=white" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/DSPy-D946EF?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logoColor=white" />
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" valign="top" align="center">
 
 <img src="https://img.shields.io/badge/BitCoding%20Production%20APIs-2563EB?style=for-the-badge&logoColor=white" />
 
-REST APIs for authentication, catalog, and order management on a live client-facing e-commerce platform.
+<br><br>
+
+<img src="https://img.shields.io/badge/Live%20client%E2%80%93facing%20e%E2%80%93commerce%20platform-1a1f2e?style=flat-square&labelColor=1a1f2e&color=1a1f2e" />
+<br>
+<img src="https://img.shields.io/badge/Auth%2C%20catalog%2C%20%26%20order%20management%20APIs-334155?style=flat-square&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Intern%20%E2%86%92%20full%E2%80%93time%20in%20under%20a%20year-334155?style=flat-square&logoColor=white" />
+
+<br><br>
 
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 
@@ -130,10 +170,12 @@ REST APIs for authentication, catalog, and order management on a live client-fac
 
 <div align="center">
 
-### Activity
+<img src="https://img.shields.io/badge/ACTIVITY-F97316?style=for-the-badge&logoColor=white" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganesh-rajput-07&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-rajput-07&theme=radical&hide_border=true&background=00000000" />
+<br><br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganesh-rajput-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-rajput-07&theme=tokyonight&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316" />
 
 <br><br>
 
@@ -153,7 +195,7 @@ REST APIs for authentication, catalog, and order management on a live client-fac
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Strong%20systems%20survive%20scale-F59E0B?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Good%20engineering%20survives%20time-DC2626?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Strong%20systems%20survive%20scale-F97316?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/Good%20engineering%20survives%20time-F97316?style=flat-square&logoColor=white" />
 
 </div>
