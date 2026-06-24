@@ -9,9 +9,13 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Currently-Python%20Developer%20%40%20BitCoding%20Solutions-1a1f2e?style=flat-square&labelColor=0d1117&color=2563eb" />
-<img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Engineering%2C%20GTU%20%E2%80%94%209.46%20CGPA-1a1f2e?style=flat-square&labelColor=0d1117&color=2563eb" />
-<img src="https://img.shields.io/badge/Location-Surat%2C%20Gujarat%2C%20India-1a1f2e?style=flat-square&labelColor=0d1117&color2563eb&color=2563eb" />
+<img src="https://img.shields.io/badge/Currently-Python%20Developer%20%40%20BitCoding%20Solutions-0d1117?style=flat-square&labelColor=1a1f2e&color=2563eb" />
+<img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Engineering%2C%20GTU%20%E2%80%94%209.46%20CGPA-0d1117?style=flat-square&labelColor=1a1f2e&color=2563eb" />
+<img src="https://img.shields.io/badge/Location-Surat%2C%20Gujarat%2C%20India-0d1117?style=flat-square&labelColor=1a1f2e&color=2563eb" />
+
+<br><br>
+
+**Backend engineer building production APIs today, moving toward AI agentic systems as the main focus — using backend infrastructure as the foundation that makes those systems reliable.**
 
 </div>
 
@@ -47,9 +51,18 @@
 <img src="https://img.shields.io/badge/JWT%20%2F%20OAuth-1a1f2e?style=for-the-badge&labelColor=0d1117&color=2563eb" />
 <img src="https://img.shields.io/badge/RBAC-1a1f2e?style=for-the-badge&labelColor=0d1117&color=2563eb" />
 <img src="https://img.shields.io/badge/Microservices-1a1f2e?style=for-the-badge&labelColor=0d1117&color=2563eb" />
-<img src="https://img.shields.io/badge/Vector%20Search-1a1f2e?style=for-the-badge&labelColor=0d1117&color=2563eb" />
-<img src="https://img.shields.io/badge/LLM%20Agents-1a1f2e?style=for-the-badge&labelColor=0d1117&color=2563eb" />
-<img src="https://img.shields.io/badge/DSPy-1a1f2e?style=for-the-badge&labelColor=0d1117&color=2563eb" />
+
+<br><br>
+
+<sub>Heading toward — building the backend layer AI agents run on</sub>
+
+<br>
+
+<img src="https://img.shields.io/badge/LLM%20Agents-0d1117?style=for-the-badge&logoColor=white&color=7c3aed" />
+<img src="https://img.shields.io/badge/ReAct%20Agents-0d1117?style=for-the-badge&color=7c3aed" />
+<img src="https://img.shields.io/badge/Recursive%20Orchestration-0d1117?style=for-the-badge&color=7c3aed" />
+<img src="https://img.shields.io/badge/Vector%20Search-0d1117?style=for-the-badge&color=7c3aed" />
+<img src="https://img.shields.io/badge/DSPy-0d1117?style=for-the-badge&color=7c3aed" />
 
 </div>
 
@@ -124,7 +137,11 @@ REST APIs for authentication, catalog, and order management on a live client-fac
 
 <br><br>
 
-<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/output/github-contribution-grid-snake.svg" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
 
 </div>
 
