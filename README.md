@@ -59,7 +59,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,redis,docker,linux,git,githubactions,postman,html,js,react,nextjs,flutter,java,c,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,redis,docker,linux,git,githubactions,postman,html,js,react,nextjs,flutter,java,c,nodejs,aws&theme=dark" />
 
 <br><br>
 
