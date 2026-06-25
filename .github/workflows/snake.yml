@@ -22,7 +22,7 @@ on:
     - cron: "0 0 * * *"     # once daily, midnight UTC
   push:
     branches:
-       - main                 # also regenerate on every push to main
+      - main                 # also regenerate on every push to main
 
 permissions:
   contents: write
