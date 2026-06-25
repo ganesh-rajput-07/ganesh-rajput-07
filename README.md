@@ -1,27 +1,55 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=blur&color=gradient&customColorList=12&height=130&section=header&text=GANESH%20RAJPUT&fontSize=42&fontColor=ffffff&fontAlign=50&fontAlignY=50&desc=BACKEND%20ENGINEER%20%E2%80%94%20API%20SECURITY%20%E2%80%94%20APPLIED%20AI&descAlign=50&descAlignY=72&descSize=14&descColor=fde9d9&animation=fadeIn" />
+<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/hero-banner.png" width="100%" alt="desk scene" />
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=F97316&center=true&vCenter=true&width=640&lines=Backend+Engineer+%E2%80%94+Python+%2F+FastAPI+%2F+Django;Building+the+infrastructure+AI+agents+run+on;Currently+shipping+production+APIs+%40+BitCoding" alt="typing" />
+
+<br><br>
 
 <a href="https://ganesh-rajput.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/ganeshrajput7045/"><img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:grt7045@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/ganesh-rajput-07"><img src="https://img.shields.io/github/followers/ganesh-rajput-07?label=Followers&style=for-the-badge&color=F97316&logo=github&logoColor=white" /></a>
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Currently-Python%20Developer%20%40%20BitCoding%20Solutions-1a1f2e?style=flat-square&labelColor=F97316&logoColor=white" />
-<img src="https://img.shields.io/badge/Education-B.E.%20Computer%20Engineering%2C%20GTU%20%E2%80%94%209.46%20CGPA-1a1f2e?style=flat-square&labelColor=F97316&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Surat%2C%20Gujarat%2C%20India-1a1f2e?style=flat-square&labelColor=F97316&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Backend%20engineer%20building%20production%20APIs%20today-1a1f2e?style=for-the-badge&labelColor=F97316&color=1a1f2e" />
-<br>
-<img src="https://img.shields.io/badge/Moving%20toward%20AI%20agentic%20systems%20as%20the%20main%20focus-1a1f2e?style=for-the-badge&labelColor=F97316&color=1a1f2e" />
-<br>
-<img src="https://img.shields.io/badge/Backend%20infra%20as%20the%20foundation%20that%20makes%20agents%20reliable-1a1f2e?style=for-the-badge&labelColor=F97316&color=1a1f2e" />
-
 </div>
+
+<br>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Backend%20Engineer-1a1f2e?style=flat-square&color=F97316" />
+<img src="https://img.shields.io/badge/API%20Security-1a1f2e?style=flat-square&color=F97316" />
+<img src="https://img.shields.io/badge/Systems%20Thinker-1a1f2e?style=flat-square&color=F97316" />
+<img src="https://img.shields.io/badge/Heading%20Toward%20Agentic%20AI-1a1f2e?style=flat-square&color=F97316" />
+</p>
+
+<hr>
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+<img src="https://img.shields.io/badge/WHO%20I%20AM-F97316?style=for-the-badge&logoColor=white" />
+
+<br><br>
+
+- Building **production REST APIs** at BitCoding Solutions — FastAPI, Django REST Framework, PostgreSQL
+- Went **intern → full-time backend developer** in under a year
+- Shipped **ApiWall**, a real API-security layer with rate limiting and threat detection
+- Built a **recursive LLM agent framework** that writes and runs its own sandboxed code
+- Graduating **B.E. Computer Engineering, GTU** — CGPA 9.46/10
+- Currently going deeper into **agentic AI systems** — backend is the foundation, agents are the direction
+- Reach me at **grt7045@gmail.com**
+
+</td>
+<td width="38%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/terminal-scene.png" width="100%" alt="terminal scene" />
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -31,39 +59,21 @@
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=44B78B" />
-<img src="https://img.shields.io/badge/Django%20REST-A30000?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,redis,docker,linux,git,githubactions,postman,html,js,react,nextjs,flutter,java,c,nodejs&theme=dark" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/HEADING%20TOWARD%20%E2%80%94%20THE%20BACKEND%20LAYER%20AI%20AGENTS%20RUN%20ON-F97316?style=for-the-badge&logoColor=white" />
+<sub><b>plus</b></sub> &nbsp;
+<img src="https://img.shields.io/badge/JWT%20%2F%20OAuth-1a1f2e?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/RBAC-1a1f2e?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/Microservices-1a1f2e?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/Burp%20Suite-1a1f2e?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/Swagger%2FOpenAPI-1a1f2e?style=flat-square&color=64748b" />
 
 <br><br>
 
+<img src="https://img.shields.io/badge/HEADING%20TOWARD-F97316?style=for-the-badge&logoColor=white" />
+<br><br>
 <img src="https://img.shields.io/badge/LLM%20Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/ReAct%20Agents-9333EA?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/Recursive%20Orchestration-A21CAF?style=for-the-badge&logoColor=white" />
@@ -75,83 +85,45 @@
 <br>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/SELECTED%20WORK-F97316?style=for-the-badge&logoColor=white" />
-
 </div>
 
 <br>
 
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/ApiWall-DC2626?style=for-the-badge&logoColor=white" />
+#### ApiWall — API Security Platform
+Rate limiting, IP reputation scoring, and real-time threat detection, shipped as reusable FastAPI middleware with JWT auth and brute-force protection.
 
-<br><br>
-
-<img src="https://img.shields.io/badge/API%20security%20platform-1a1f2e?style=flat-square&labelColor=1a1f2e&color=1a1f2e" />
-<br>
-<img src="https://img.shields.io/badge/Rate%20limiting%20%C2%B7%20IP%20reputation%20scoring%20%C2%B7%20real--time%20threat%20detection-334155?style=flat-square&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Shipped%20as%20reusable%20FastAPI%20middleware-334155?style=flat-square&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres,linux&theme=dark" />
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/InvenIO-7C3AED?style=for-the-badge&logoColor=white" />
+#### InvenIO — Patent Marketplace
+AI-assisted patent platform with blockchain ownership verification, IPFS storage, and vector-embedding duplicate detection.
 
-<br><br>
-
-<img src="https://img.shields.io/badge/AI%E2%80%93assisted%20patent%20marketplace-1a1f2e?style=flat-square&labelColor=1a1f2e&color=1a1f2e" />
-<br>
-<img src="https://img.shields.io/badge/Blockchain%20ownership%20verification-334155?style=flat-square&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Vector%E2%80%93embedding%20duplicate%20detection-334155?style=flat-square&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logo=ipfs&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs&theme=dark" /> <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logoColor=white" />
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/RLM%20Agent%20Framework-D946EF?style=for-the-badge&logoColor=white" />
+#### RLM Agent Framework
+An autonomous agent that writes and executes its own Python in a secure sandbox, using recursive multi-step reasoning via DSPy.
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Autonomous%20coding%20agent-1a1f2e?style=flat-square&labelColor=1a1f2e&color=1a1f2e" />
-<br>
-<img src="https://img.shields.io/badge/Writes%20%26%20executes%20its%20own%20Python%20in%20a%20sandbox-334155?style=flat-square&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Recursive%2C%20multi%E2%80%93step%20reasoning-334155?style=flat-square&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/DSPy-D946EF?style=flat-square&logoColor=white" /> <img src="https://img.shields.io/badge/Deno-000000?style=flat-square&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,deno&theme=dark" /> <img src="https://img.shields.io/badge/DSPy-D946EF?style=flat-square&logoColor=white" />
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/BitCoding%20Production%20APIs-2563EB?style=for-the-badge&logoColor=white" />
+#### Production APIs — BitCoding Solutions
+REST APIs for auth, catalog, and order management on a live e-commerce platform, plus a warehouse-management system used in production.
 
-<br><br>
-
-<img src="https://img.shields.io/badge/Live%20client%E2%80%93facing%20e%E2%80%93commerce%20platform-1a1f2e?style=flat-square&labelColor=1a1f2e&color=1a1f2e" />
-<br>
-<img src="https://img.shields.io/badge/Auth%2C%20catalog%2C%20%26%20order%20management%20APIs-334155?style=flat-square&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/Intern%20%E2%86%92%20full%E2%80%93time%20in%20under%20a%20year-334155?style=flat-square&logoColor=white" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=fastapi,django,postgres&theme=dark" />
 
 </td>
 </tr>
@@ -159,10 +131,10 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/URL%20Shortener%20%2B%20Analytics-0EA5E9?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/WantMeal-F97316?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/KrishiMitra%20AI-16A34A?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Kaleidoscope%20WMS-475569?style=flat-square&logoColor=white" />
+<img src="https://img.shields.io/badge/URL%20Shortener%20%2B%20Analytics-1a1f2e?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/WantMeal-1a1f2e?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/KrishiMitra%20AI-1a1f2e?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/Kaleidoscope%20WMS-1a1f2e?style=flat-square&color=64748b" />
 
 </div>
 
@@ -194,8 +166,6 @@
 <br>
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/Strong%20systems%20survive%20scale-F97316?style=flat-square&logoColor=white" />
 <img src="https://img.shields.io/badge/Good%20engineering%20survives%20time-F97316?style=flat-square&logoColor=white" />
-
 </div>
