@@ -32,22 +32,7 @@
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/stats-header.svg" width="100%" alt="stats terminal header" />
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api?username=ganesh-rajput-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0B10&title_color=F97316&icon_color=F97316&text_color=E5E7EB" /></td>
-<td width="50%"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-rajput-07&theme=tokyonight&hide_border=true&background=0B0B10&ring=F97316&fire=F97316&currStreakLabel=F97316" /></td>
-</tr>
-<tr>
-<td width="50%"><img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-rajput-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0B10&title_color=F97316&text_color=E5E7EB" /></td>
-<td width="50%"><img width="100%" src="https://github-profile-trophy.vercel.app/?username=ganesh-rajput-07&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" /></td>
-</tr>
-</table>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/stats-footer.svg" width="100%" alt="stats terminal footer" />
+<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/stats-frame.svg" width="100%" alt="live stats terminal" />
 </div>
 
 <br>
