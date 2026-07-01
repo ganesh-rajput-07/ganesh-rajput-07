@@ -37,9 +37,9 @@
 
 <br>
 
-<div align="center">
-
 ### $ ./connect.sh</sub>
+
+<div align="center">
 
 <br><br>
 
