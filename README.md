@@ -32,51 +32,7 @@
 <br>
 
 <div align="center">
-
-<!-- Terminal Frame -->
-<img
-    src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/stats-frame.svg"
-    width="100%"
-    alt="Live Stats Terminal"
-/>
-
-<br><br>
-
-<table>
-<tr>
-
-<td width="50%">
-<img
-src="https://github-readme-stats.vercel.app/api?username=ganesh-rajput-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=E5E7EB"
-width="100%" />
-</td>
-
-<td width="50%">
-<img
-src="https://streak-stats.demolab.com?user=ganesh-rajput-07&theme=tokyonight&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316"
-width="100%" />
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-rajput-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F97316&text_color=E5E7EB"
-width="100%" />
-</td>
-
-<td width="50%">
-<img
-src="https://github-profile-trophy.vercel.app/?username=ganesh-rajput-07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10"
-width="100%" />
-</td>
-
-</tr>
-
-</table>
-
+<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/stats-frame.svg" width="100%" alt="live stats terminal" />
 </div>
 
 <br>
