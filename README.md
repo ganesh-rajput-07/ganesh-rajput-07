@@ -39,7 +39,7 @@
 
 <div align="center">
 
-<sub>$ ./connect.sh</sub>
+# $ ./connect.sh</sub>
 
 <br><br>
 
@@ -51,7 +51,7 @@
 
 <br>
 
-### `$ git log --graph --all`
+# `$ git log --graph --all`
 
 <div align="center">
 
