@@ -1,9 +1,0 @@
-<svg width="220" height="60" viewBox="0 0 220 60" xmlns="http://www.w3.org/2000/svg">
-  <rect x="1" y="1" width="218" height="58" rx="10" fill="#12121a" stroke="#F97316" stroke-width="1.5"/>
-  <circle cx="26" cy="30" r="3" fill="#F97316">
-    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
-  </circle>
-  <text x="42" y="35" font-family="Fira Code, monospace" font-size="14" fill="#F97316">$</text>
-  <text x="58" y="35" font-family="Fira Code, monospace" font-size="14" fill="#e5e7eb">mail --send</text>
-  <text x="196" y="35" font-family="Fira Code, monospace" font-size="14" fill="#F97316">›</text>
-</svg>
