@@ -13,123 +13,23 @@
 
 <br>
 
-> **strong systems survive scale. good engineering survives time.**
+<div align="center">
+<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/player-card.svg" width="100%" alt="player stats" />
+</div>
 
 <br>
 
-### `$ cat about.md`
-
-```yaml
-name:        Ganesh Rajput
-role:        Backend Engineer (Python / FastAPI / Django)
-trajectory:  intern -> full-time backend dev, in under 12 months
-currently:   shipping production REST APIs @ BitCoding Solutions
-building:    ApiWall — rate limiting, IP threat scoring, JWT security layer
-also built:  a recursive agent that writes + executes its own sandboxed Python
-studying:    B.E. Computer Engineering, GTU — CGPA 9.46/10
-direction:   backend today -> autonomous agentic systems next
-contact:     grt7045@gmail.com
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/skill-bars.svg" width="100%" alt="skill tree" />
+</div>
 
 <br>
 
-### `$ ls ./stack`
+<div align="center">
+<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/achievements.svg" width="100%" alt="achievements unlocked" />
+</div>
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**core**
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,redis&theme=dark" />
-
-</td>
-<td width="33%" valign="top">
-
-**infra / tools**
-<br><br>
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,git,githubactions,postman&theme=dark" />
-
-</td>
-<td width="33%" valign="top">
-
-**frontend / other**
-<br><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,flutter,java,c,nodejs&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://img.shields.io/badge/JWT_/_OAuth-1a1f2e?style=flat-square&color=64748b" />
-<img src="https://img.shields.io/badge/RBAC-1a1f2e?style=flat-square&color=64748b" />
-<img src="https://img.shields.io/badge/Microservices-1a1f2e?style=flat-square&color=64748b" />
-<img src="https://img.shields.io/badge/Burp_Suite-1a1f2e?style=flat-square&color=64748b" />
-<img src="https://img.shields.io/badge/Swagger_/_OpenAPI-1a1f2e?style=flat-square&color=64748b" />
-
-<br><br>
-
-### `$ ls ./next_frontier --ai`
-
-<img src="https://img.shields.io/badge/LLM_Agents-1a1f2e?style=for-the-badge&logo=openai&logoColor=A855F7&color=0F0F14" />
-<img src="https://img.shields.io/badge/ReAct_Agents-1a1f2e?style=for-the-badge&color=0F0F14&logoColor=C026D3" />
-<img src="https://img.shields.io/badge/Recursive_Orchestration-1a1f2e?style=for-the-badge&color=0F0F14&logoColor=D946EF" />
-<img src="https://img.shields.io/badge/Vector_Search-1a1f2e?style=for-the-badge&color=0F0F14&logoColor=EC4899" />
-<img src="https://img.shields.io/badge/DSPy-1a1f2e?style=for-the-badge&color=0F0F14&logoColor=F472B6" />
-
-<br><br>
-
-### `$ git log --oneline --projects`
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🛡️ ApiWall** — API Security Platform
 <br>
-Rate limiting, IP reputation scoring, real-time threat detection. Shipped as reusable FastAPI middleware with JWT auth and brute-force protection.
-<br><br>
-<img src="https://skillicons.dev/icons?i=fastapi,postgres,linux&theme=dark" />
-
-</td>
-<td width="50%" valign="top">
-
-**📜 InvenIO** — AI Patent Marketplace
-<br>
-Blockchain ownership verification, IPFS storage, vector-embedding duplicate detection for prior-art matching.
-<br><br>
-<img src="https://skillicons.dev/icons?i=fastapi,nextjs&theme=dark" /> <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logoColor=white" />
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 RLM Agent Framework** — Recursive LLM Agent
-<br>
-Writes and executes its own Python inside a secure sandbox, using recursive multi-step reasoning via DSPy.
-<br><br>
-<img src="https://skillicons.dev/icons?i=python,deno&theme=dark" /> <img src="https://img.shields.io/badge/DSPy-D946EF?style=flat-square&logoColor=white" />
-
-</td>
-<td width="50%" valign="top">
-
-**🏭 BitCoding Production Systems**
-<br>
-REST APIs for auth, catalog, and order management on a live e-commerce platform, plus a warehouse-management system in production.
-<br><br>
-<img src="https://skillicons.dev/icons?i=fastapi,django,postgres&theme=dark" />
-
-</td>
-</tr>
-</table>
-
-<img src="https://img.shields.io/badge/🔗_URL_Shortener_+_Analytics-1a1f2e?style=flat-square&color=64748b" />
-<img src="https://img.shields.io/badge/🍱_WantMeal-1a1f2e?style=flat-square&color=64748b" />
-<img src="https://img.shields.io/badge/🌾_KrishiMitra_AI-1a1f2e?style=flat-square&color=64748b" />
-<img src="https://img.shields.io/badge/📦_Kaleidoscope_WMS-1a1f2e?style=flat-square&color=64748b" />
-
-<br><br>
 
 ### `$ curl stats.ganesh --live`
 
@@ -172,5 +72,5 @@ REST APIs for auth, catalog, and order management on a live e-commerce platform,
 <br>
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/terminal-scene.png" width="55%" alt="terminal scene" />
+<sub>strong systems survive scale · good engineering survives time</sub>
 </div>
