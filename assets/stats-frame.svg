@@ -1,0 +1,41 @@
+<svg width="1000" height="680" viewBox="0 0 1000 680" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="stClip"><rect width="1000" height="680" rx="16" ry="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#stClip)">
+    <rect width="1000" height="680" fill="#0B0B10"/>
+    <rect width="1000" height="36" fill="#14141c"/>
+    <circle cx="24" cy="18" r="6" fill="#FF5F56"/><circle cx="44" cy="18" r="6" fill="#FFBD2E"/><circle cx="64" cy="18" r="6" fill="#27C93F"/>
+    <text x="500" y="23" text-anchor="middle" font-family="Fira Code, monospace" font-size="13" fill="#7d8598">ganesh@bitcoding — stats.live</text>
+    <line x1="0" y1="36" x2="1000" y2="36" stroke="#F97316" stroke-opacity="0.25"/>
+    <text x="30" y="56" font-family="Fira Code, monospace" font-size="13" fill="#5b6272">$ curl stats.ganesh --live</text>
+
+    <!-- row 1: overview + streak -->
+    <rect x="20" y="66" width="470" height="195" rx="10" fill="#12121a" stroke="#1f2430"/>
+    <image x="20" y="66" width="470" height="195" preserveAspectRatio="xMidYMid meet"
+      xlink:href="https://github-readme-stats.vercel.app/api?username=ganesh-rajput-07&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=F97316&amp;icon_color=F97316&amp;text_color=E5E7EB"/>
+
+    <rect x="510" y="66" width="470" height="195" rx="10" fill="#12121a" stroke="#1f2430"/>
+    <image x="510" y="66" width="470" height="195" preserveAspectRatio="xMidYMid meet"
+      xlink:href="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-rajput-07&amp;theme=tokyonight&amp;hide_border=true&amp;background=00000000&amp;ring=F97316&amp;fire=F97316&amp;currStreakLabel=F97316"/>
+
+    <!-- row 2: languages + trophies -->
+    <rect x="20" y="281" width="470" height="195" rx="10" fill="#12121a" stroke="#1f2430"/>
+    <image x="20" y="281" width="470" height="195" preserveAspectRatio="xMidYMid meet"
+      xlink:href="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-rajput-07&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=00000000&amp;title_color=F97316&amp;text_color=E5E7EB"/>
+
+    <rect x="510" y="281" width="470" height="195" rx="10" fill="#12121a" stroke="#1f2430"/>
+    <image x="510" y="281" width="470" height="195" preserveAspectRatio="xMidYMid meet"
+      xlink:href="https://github-profile-trophy.vercel.app/?username=ganesh-rajput-07&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;margin-w=8&amp;margin-h=8"/>
+
+    <!-- row 3: commit snake -->
+    <text x="30" y="512" font-family="Fira Code, monospace" font-size="12" fill="#5b6272">$ git log --graph --all</text>
+    <rect x="20" y="522" width="960" height="130" rx="10" fill="#12121a" stroke="#1f2430"/>
+    <image x="30" y="527" width="940" height="120" preserveAspectRatio="xMidYMid meet"
+      xlink:href="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/output/github-contribution-grid-snake-dark.svg"/>
+
+    <text x="30" y="668" font-family="Fira Code, monospace" font-size="11" fill="#5b6272">data refreshes automatically on push · snake regenerates daily</text>
+  </g>
+  <rect x="0.5" y="0.5" width="999" height="679" rx="16" ry="16" fill="none" stroke="#F97316" stroke-opacity="0.35" stroke-width="1"/>
+</svg>
