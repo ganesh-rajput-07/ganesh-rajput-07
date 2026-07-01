@@ -1,51 +1,62 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/hero-banner.png" width="100%" alt="desk scene" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F14,50:1a1f2e,100:F97316&height=220&section=header&text=GANESH%20RAJPUT&fontSize=52&fontColor=F97316&fontAlignY=38&desc=Backend%20Engineer%20%E2%86%92%20Agentic%20AI%20Builder&descAlignY=58&descColor=E5E7EB&animation=fadeIn" width="100%" />
 
-<br><br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=F97316&center=true&vCenter=true&width=680&lines=%3E+building+APIs+that+don't+break+at+3am;%3E+teaching+agents+to+write+their+own+code;%3E+backend+today.+autonomous+systems+tomorrow;%3E+shipping+%40+BitCoding+Solutions" alt="typing" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=F97316&center=true&vCenter=true&width=640&lines=Backend+Engineer+%E2%80%94+Python+%2F+FastAPI+%2F+Django;Building+the+infrastructure+AI+agents+run+on;Currently+shipping+production+APIs+%40+BitCoding" alt="typing" />
+<br>
 
-<br><br>
-
-<a href="https://ganesh-rajput.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-F97316?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ganeshrajput7045/"><img src="https://img.shields.io/badge/LinkedIn-F97316?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:grt7045@gmail.com"><img src="https://img.shields.io/badge/Email-F97316?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/ganesh-rajput-07"><img src="https://img.shields.io/github/followers/ganesh-rajput-07?label=Followers&style=for-the-badge&color=F97316&logo=github&logoColor=white" /></a>
+<a href="https://ganesh-rajput.vercel.app/"><img src="https://img.shields.io/badge/portfolio-0F0F14?style=for-the-badge&logo=vercel&logoColor=F97316" /></a>
+<a href="https://www.linkedin.com/in/ganeshrajput7045/"><img src="https://img.shields.io/badge/linkedin-0F0F14?style=for-the-badge&logo=linkedin&logoColor=F97316" /></a>
+<a href="mailto:grt7045@gmail.com"><img src="https://img.shields.io/badge/email-0F0F14?style=for-the-badge&logo=gmail&logoColor=F97316" /></a>
+<img src="https://komarev.com/ghpvc/?username=ganesh-rajput-07&style=for-the-badge&color=F97316&label=PROFILE+VIEWS&labelColor=0F0F14" />
 
 </div>
 
 <br>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Backend%20Engineer-1a1f2e?style=flat-square&color=F97316" />
-<img src="https://img.shields.io/badge/API%20Security-1a1f2e?style=flat-square&color=F97316" />
-<img src="https://img.shields.io/badge/Systems%20Thinker-1a1f2e?style=flat-square&color=F97316" />
-<img src="https://img.shields.io/badge/Heading%20Toward%20Agentic%20AI-1a1f2e?style=flat-square&color=F97316" />
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/●_available_for_opportunities-0F0F14?style=flat-square&color=F97316" />
+<img src="https://img.shields.io/badge/based_in-India-0F0F14?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/CGPA-9.46%2F10-0F0F14?style=flat-square&color=64748b" />
+</div>
 
-<hr>
+<br>
 
-<table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:0F0F14&height=2&width=100%" width="100%"/>
+
+<br>
+
+## ⚡ the short version
+
+```bash
+$ whoami
+```
+```
+> intern → full-time backend dev, under 12 months.
+> shipped real API security infra (ApiWall) — rate limits, threat detection, JWT.
+> built an agent that writes + runs its own sandboxed Python, recursively.
+> right now: pulling backend expertise into agentic AI systems.
+> philosophy: strong systems survive scale. good engineering survives time.
+```
+
+<br>
+
+<table width="100%">
 <tr>
-<td width="62%" valign="top">
+<td width="60%" valign="top">
 
-<img src="https://img.shields.io/badge/WHO%20I%20AM-F97316?style=for-the-badge&logoColor=white" />
+### 🎯 currently
 
-<br><br>
-
-- Building **production REST APIs** at BitCoding Solutions — FastAPI, Django REST Framework, PostgreSQL
-- Went **intern → full-time backend developer** in under a year
-- Shipped **ApiWall**, a real API-security layer with rate limiting and threat detection
-- Built a **recursive LLM agent framework** that writes and runs its own sandboxed code
-- Graduating **B.E. Computer Engineering, GTU** — CGPA 9.46/10
-- Currently going deeper into **agentic AI systems** — backend is the foundation, agents are the direction
-- Reach me at **grt7045@gmail.com**
+<img src="https://img.shields.io/badge/🔧_building-Production_REST_APIs_@_BitCoding-1a1f2e?style=flat-square&color=F97316&labelColor=0F0F14" /><br><br>
+<img src="https://img.shields.io/badge/🧠_learning-Agentic_AI_&_ReAct_orchestration-1a1f2e?style=flat-square&color=A855F7&labelColor=0F0F14" /><br><br>
+<img src="https://img.shields.io/badge/🎓_graduating-B.E._Computer_Engineering,_GTU-1a1f2e?style=flat-square&color=22D3EE&labelColor=0F0F14" /><br><br>
+<img src="https://img.shields.io/badge/📡_open_to-Backend_/_AI_Infra_roles-1a1f2e?style=flat-square&color=10B981&labelColor=0F0F14" />
 
 </td>
-<td width="38%" valign="top" align="center">
+<td width="40%" valign="top" align="center">
 
-<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/terminal-scene.png" width="100%" alt="terminal scene" />
+<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/terminal-scene.png" width="100%" alt="terminal scene" style="border-radius:12px" />
 
 </td>
 </tr>
@@ -53,57 +64,70 @@
 
 <br>
 
+## 🧬 stack
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/STACK-F97316?style=for-the-badge&logoColor=white" />
+**core**
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,redis&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,postgres,mysql,sqlite,aws,vercel,redis,docker,linux,git,githubactions,postman,html,js,react,nextjs,flutter,java,c,nodejs&theme=dark" />
+**infra & tools**
 
-<br><br>
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,linux,git,githubactions,postman&theme=dark" />
 
-<sub><b>plus</b></sub> &nbsp;
-<img src="https://img.shields.io/badge/JWT%20%2F%20OAuth-1a1f2e?style=flat-square&color=64748b" />
+**frontend / other**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,flutter,java,c,nodejs&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/JWT_/_OAuth-1a1f2e?style=flat-square&color=64748b" />
 <img src="https://img.shields.io/badge/RBAC-1a1f2e?style=flat-square&color=64748b" />
 <img src="https://img.shields.io/badge/Microservices-1a1f2e?style=flat-square&color=64748b" />
-<img src="https://img.shields.io/badge/Burp%20Suite-1a1f2e?style=flat-square&color=64748b" />
-<img src="https://img.shields.io/badge/Swagger%2FOpenAPI-1a1f2e?style=flat-square&color=64748b" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/HEADING%20TOWARD-F97316?style=for-the-badge&logoColor=white" />
-<br><br>
-<img src="https://img.shields.io/badge/LLM%20Agents-7C3AED?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/ReAct%20Agents-9333EA?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Recursive%20Orchestration-A21CAF?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/Vector%20Search-C026D3?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/DSPy-D946EF?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-1a1f2e?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/Swagger_/_OpenAPI-1a1f2e?style=flat-square&color=64748b" />
 
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/SELECTED%20WORK-F97316?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/🚀_NEXT_FRONTIER-1a1f2e?style=for-the-badge&color=A855F7" />
+<br><br>
+<img src="https://img.shields.io/badge/LLM_Agents-1a1f2e?style=for-the-badge&logo=openai&logoColor=A855F7&color=0F0F14" />
+<img src="https://img.shields.io/badge/ReAct_Agents-1a1f2e?style=for-the-badge&color=0F0F14&logoColor=C026D3" />
+<img src="https://img.shields.io/badge/Recursive_Orchestration-1a1f2e?style=for-the-badge&color=0F0F14&logoColor=D946EF" />
+<img src="https://img.shields.io/badge/Vector_Search-1a1f2e?style=for-the-badge&color=0F0F14&logoColor=EC4899" />
+<img src="https://img.shields.io/badge/DSPy-1a1f2e?style=for-the-badge&color=0F0F14&logoColor=F472B6" />
 </div>
 
 <br>
 
-<table>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0F14,100:F97316&height=2&width=100%" width="100%"/>
+
+<br>
+
+## 🛠️ selected work
+
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### ApiWall — API Security Platform
-Rate limiting, IP reputation scoring, and real-time threat detection, shipped as reusable FastAPI middleware with JWT auth and brute-force protection.
+### 🛡️ ApiWall
+**API Security Platform**
+
+Rate limiting, IP reputation scoring, real-time threat detection — shipped as reusable FastAPI middleware with JWT auth and brute-force protection.
 
 <img src="https://skillicons.dev/icons?i=fastapi,postgres,linux&theme=dark" />
 
 </td>
 <td width="50%" valign="top">
 
-#### InvenIO — Patent Marketplace
-AI-assisted patent platform with blockchain ownership verification, IPFS storage, and vector-embedding duplicate detection.
+### 📜 InvenIO
+**AI-Powered Patent Marketplace**
+
+Blockchain ownership verification, IPFS storage, and vector-embedding duplicate detection for prior-art matching.
 
 <img src="https://skillicons.dev/icons?i=fastapi,nextjs&theme=dark" /> <img src="https://img.shields.io/badge/IPFS-65C2CB?style=flat-square&logoColor=white" />
 
@@ -112,16 +136,20 @@ AI-assisted patent platform with blockchain ownership verification, IPFS storage
 <tr>
 <td width="50%" valign="top">
 
-#### RLM Agent Framework
-An autonomous agent that writes and executes its own Python in a secure sandbox, using recursive multi-step reasoning via DSPy.
+### 🤖 RLM Agent Framework
+**Recursive LLM Agent**
+
+Writes and executes its own Python inside a secure sandbox, using recursive multi-step reasoning via DSPy.
 
 <img src="https://skillicons.dev/icons?i=python,deno&theme=dark" /> <img src="https://img.shields.io/badge/DSPy-D946EF?style=flat-square&logoColor=white" />
 
 </td>
 <td width="50%" valign="top">
 
-#### Production APIs — BitCoding Solutions
-REST APIs for auth, catalog, and order management on a live e-commerce platform, plus a warehouse-management system used in production.
+### 🏭 BitCoding Production Systems
+**Live E-Commerce Platform**
+
+REST APIs for auth, catalog, and order management — plus a warehouse-management system running in production.
 
 <img src="https://skillicons.dev/icons?i=fastapi,django,postgres&theme=dark" />
 
@@ -131,23 +159,30 @@ REST APIs for auth, catalog, and order management on a live e-commerce platform,
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/URL%20Shortener%20%2B%20Analytics-1a1f2e?style=flat-square&color=64748b" />
-<img src="https://img.shields.io/badge/WantMeal-1a1f2e?style=flat-square&color=64748b" />
-<img src="https://img.shields.io/badge/KrishiMitra%20AI-1a1f2e?style=flat-square&color=64748b" />
-<img src="https://img.shields.io/badge/Kaleidoscope%20WMS-1a1f2e?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/🔗_URL_Shortener_+_Analytics-1a1f2e?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/🍱_WantMeal-1a1f2e?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/🌾_KrishiMitra_AI-1a1f2e?style=flat-square&color=64748b" />
+<img src="https://img.shields.io/badge/📦_Kaleidoscope_WMS-1a1f2e?style=flat-square&color=64748b" />
 
 </div>
 
 <br>
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:F97316,100:0F0F14&height=2&width=100%" width="100%"/>
+
+<br>
+
+## 📊 the numbers
+
 <div align="center">
 
-<img src="https://img.shields.io/badge/ACTIVITY-F97316?style=for-the-badge&logoColor=white" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganesh-rajput-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316&text_color=E5E7EB" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-rajput-07&theme=tokyonight&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316" />
 
 <br><br>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ganesh-rajput-07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F97316&icon_color=F97316" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ganesh-rajput-07&theme=tokyonight&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-rajput-07&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=F97316&text_color=E5E7EB" height="165" />
+<img src="https://github-profile-trophy.vercel.app/?username=ganesh-rajput-07&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" height="165"/>
 
 <br><br>
 
@@ -166,6 +201,13 @@ REST APIs for auth, catalog, and order management on a live e-commerce platform,
 <br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Strong%20systems%20survive%20scale-F97316?style=flat-square&logoColor=white" />
-<img src="https://img.shields.io/badge/Good%20engineering%20survives%20time-F97316?style=flat-square&logoColor=white" />
+
+### let's build something
+
+<a href="mailto:grt7045@gmail.com"><img src="https://img.shields.io/badge/say_hi-F97316?style=for-the-badge&logo=maildotru&logoColor=0F0F14" /></a>
+<a href="https://www.linkedin.com/in/ganeshrajput7045/"><img src="https://img.shields.io/badge/connect-F97316?style=for-the-badge&logo=linkedin&logoColor=0F0F14" /></a>
+<a href="https://ganesh-rajput.vercel.app/"><img src="https://img.shields.io/badge/see_more-F97316?style=for-the-badge&logo=vercel&logoColor=0F0F14" /></a>
+
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,50:1a1f2e,100:0F0F14&height=120&section=footer" width="100%" />
