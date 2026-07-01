@@ -18,7 +18,7 @@
     <line x1="0" y1="36" x2="1000" y2="36" stroke="#F97316" stroke-opacity="0.25"/>
     <text x="30" y="58" font-family="Fira Code, monospace" font-size="13" fill="#5b6272">$ curl stats.ganesh --live</text>
 
-    <!-- left: overview numbers -->
+    <!-- left: overview    numbers -->
     <g font-family="Fira Code, monospace">
       <text x="30" y="92" font-size="12" fill="#5b6272" letter-spacing="2">OVERVIEW</text>
 
