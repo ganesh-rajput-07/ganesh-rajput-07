@@ -4,16 +4,28 @@
 
 <br>
 
-<a href="https://ganesh-rajput.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F0F14?style=for-the-badge&logo=vercel&logoColor=F97316" /></a>
-<a href="https://www.linkedin.com/in/ganeshrajput7045/"><img src="https://img.shields.io/badge/LinkedIn-0F0F14?style=for-the-badge&logo=linkedin&logoColor=F97316" /></a>
-<a href="mailto:grt7045@gmail.com"><img src="https://img.shields.io/badge/Email-0F0F14?style=for-the-badge&logo=gmail&logoColor=F97316" /></a>
-<a href="https://github.com/ganesh-rajput-07"><img src="https://img.shields.io/badge/GitHub-0F0F14?style=for-the-badge&logo=github&logoColor=F97316" /></a>
+<a href="https://ganesh.rifttechs.me"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=0B1220" /></a>
+<a href="https://www.linkedin.com/in/ganeshrajput7045/"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8&labelColor=0B1220" /></a>
+<a href="mailto:grt7045@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=22C55E&labelColor=0B1220" /></a>
+<a href="https://github.com/ganesh-rajput-07"><img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=22C55E&labelColor=0B1220" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ganesh-rajput-07&style=flat-square&color=22C55E&label=PROFILE+VIEWS&labelColor=0B1220" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/PYTHON-22C55E?style=flat-square&logo=python&logoColor=0B1220" />
+<img src="https://img.shields.io/badge/FASTAPI-38BDF8?style=flat-square&logo=fastapi&logoColor=0B1220" />
+<img src="https://img.shields.io/badge/POSTGRESQL-38BDF8?style=flat-square&logo=postgresql&logoColor=0B1220" />
+<img src="https://img.shields.io/badge/DJANGO-22C55E?style=flat-square&logo=django&logoColor=0B1220" />
+<img src="https://img.shields.io/badge/LLM_&_RAG-38BDF8?style=flat-square&logo=googlecloud&logoColor=0B1220" />
 
 </div>
 
-<br>
+---
 
-## `$ whoami`
+## `01 / ABOUT ME`
 
 I'm a **Python Backend Engineer** interested in building reliable, maintainable software systems.
 
@@ -25,29 +37,43 @@ Alongside my professional work, I build independent projects around **API engine
 
 I'm particularly interested in understanding how systems work internally, solving engineering problems, and building software that remains reliable as it grows.
 
-## `$ tech --stack`
-
-| Area | Technologies |
-|---|---|
-| Languages | Python, SQL, Java |
-| Backend | FastAPI, Django, Django REST Framework, Flask, Pydantic |
-| Databases | PostgreSQL, MySQL, SQLite, Redis |
-| API Engineering | REST APIs, JWT, RBAC, OpenAPI, API Security |
-| Testing | Pytest, Unit Testing, Integration Testing, Postman |
-| Tools & Infrastructure | Linux, Docker, Git, GitHub Actions |
-| AI & LLM | RAG, Embeddings, Vector Search, LangChain, DSPy |
-| AI Ecosystem | FAISS, ChromaDB, Hugging Face, Gemini, Groq, OpenRouter |
-| Data & ML | Pandas, NumPy, Feature Engineering, Supervised Learning |
-
-<br>
+## `02 / TECH STACK`
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/skill-bars.svg" width="100%" alt="Technical skills" />
+
+**BACKEND DEVELOPMENT**
+
+<img src="https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/FastAPI-0B1220?style=for-the-badge&logo=fastapi&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Django-0B1220?style=for-the-badge&logo=django&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/DRF-0B1220?style=for-the-badge&logo=django&logoColor=38BDF8" />
+
+**DATABASES & STORAGE**
+
+<img src="https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&logo=mysql&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/Redis-0B1220?style=for-the-badge&logo=redis&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/SQLite-0B1220?style=for-the-badge&logo=sqlite&logoColor=22C55E" />
+
+**TOOLS & INFRASTRUCTURE**
+
+<img src="https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Linux-0B1220?style=for-the-badge&logo=linux&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0B1220?style=for-the-badge&logo=githubactions&logoColor=22C55E" />
+
+**AI & MACHINE LEARNING**
+
+<img src="https://img.shields.io/badge/LangChain-0B1220?style=for-the-badge&logo=chainlink&logoColor=22C55E" />
+<img src="https://img.shields.io/badge/Hugging_Face-0B1220?style=for-the-badge&logo=huggingface&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=22C55E" />
+
 </div>
 
-## `$ experience --professional`
+## `03 / PROFESSIONAL EXPERIENCE`
 
-**Python Developer - BitCoding Solutions Pvt. Ltd.**
+### Python Developer - BitCoding Solutions Pvt. Ltd.
 
 `July 2025 - Present`
 
@@ -58,49 +84,51 @@ I'm particularly interested in understanding how systems work internally, solvin
 - Investigated production issues using application behaviour, server logs, API responses, and database records.
 - Built database backup scripts and SQL utilities for warehouse-management workflows.
 
-**AI/ML Intern - Sparks To Ideas**
+### AI/ML Intern - Sparks To Ideas
 
 `February 2025 - March 2025`
 
 - Worked with Pandas and NumPy for data preparation and feature engineering.
 - Explored supervised machine-learning workflows and model evaluation.
 
-## `$ ls ./selected-projects`
+## `04 / SELECTED PROJECTS`
 
-A selection of projects exploring backend engineering and applied AI.
+Projects focused on backend engineering, API development, and applied AI.
 
-| Project | Focus |
+| Project | Technologies & Focus |
 |---|---|
-| **ApiWall** | API security, authentication, access control, rate limiting, and monitoring |
-| **InvenIO** | FastAPI, PostgreSQL, marketplace workflows, and semantic search |
-| **Document Intelligence** | Document processing, RAG, embeddings, and source-based question answering |
-| **Healthcare AI Assistant** | RAG-based question answering using LLMs and vector search |
-| **RLM Agent Framework** | Agent orchestration and programmatic reasoning workflows |
+| **ApiWall** | FastAPI, PostgreSQL, Redis, API security and monitoring |
+| **InvenIO** | FastAPI, PostgreSQL, marketplace workflows and semantic search |
+| **Document Intelligence** | Document processing, RAG, embeddings and source-based Q&A |
+| **Healthcare AI Assistant** | LLMs, RAG, embeddings and vector search |
+| **RLM Agent Framework** | DSPy, agent orchestration and programmatic reasoning |
 
-*Explore the pinned repositories below for source code, implementation details, and setup instructions.*
+<div align="center">
 
-## `$ education`
+<a href="https://github.com/ganesh-rajput-07"><img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-0B1220?style=for-the-badge&logo=github&logoColor=22C55E" /></a>
+
+</div>
+
+## `05 / EDUCATION`
 
 **B.E. - Computer Engineering**
 
 Pacific School of Engineering, Gujarat Technological University
 
-`2022 - 2026` | **CGPA: 9.46 / 10**
+`2022 - 2026`
 
-## `$ achievements`
+<badge-placeholder></badge-placeholder>
+
+**CGPA: 9.46 / 10**
+
+## `06 / ACHIEVEMENTS`
 
 - SAP Code Unnati - Semifinalist
 - First Rank - Semester 7
 - First Rank - Fourth Year
 - Second Rank - Semester 3
 
-<br>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/achievements.svg" width="100%" alt="Achievements" />
-</div>
-
-## `$ git log --graph --all`
+## `07 / CONTRIBUTION ACTIVITY`
 
 <div align="center">
 
@@ -110,24 +138,28 @@ Pacific School of Engineering, Gujarat Technological University
   <img alt="GitHub contribution graph" src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/output/github-contribution-grid-snake.svg" width="100%" />
 </picture>
 
-</div>
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=ganesh-rajput-07&show_icons=true&hide_border=true&bg_color=0B1220&title_color=38BDF8&icon_color=22C55E&text_color=CBD5E1&ring_color=22C55E" width="100%" alt="GitHub statistics" />
 
 <br>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganesh-rajput-07&layout=compact&hide_border=true&bg_color=0B1220&title_color=38BDF8&text_color=CBD5E1" width="100%" alt="Most used programming languages" />
+
+</div>
+
+---
+
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/stats-frame.svg" width="100%" alt="GitHub statistics" />
-
-<br><br>
 
 ### `$ ./connect.sh`
 
-<a href="mailto:grt7045@gmail.com"><img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/btn-mail.svg" /></a>
-<a href="https://www.linkedin.com/in/ganeshrajput7045/"><img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/btn-linkedin.svg" /></a>
-<a href="https://ganesh-rajput.vercel.app/"><img src="https://raw.githubusercontent.com/ganesh-rajput-07/ganesh-rajput-07/main/assets/btn-portfolio.svg" /></a>
+<a href="mailto:grt7045@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=22C55E" /></a>
+<a href="https://www.linkedin.com/in/ganeshrajput7045/"><img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+<a href="https://ganesh.rifttechs.me"><img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=vercel&logoColor=22C55E" /></a>
 
 <br><br>
 
-<sub>Strong systems survive scale. Good engineering survives time.</sub>
+<sub>Building reliable systems. Learning continuously. Engineering with purpose.</sub>
 
 </div>
